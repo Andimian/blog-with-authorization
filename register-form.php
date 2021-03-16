@@ -27,7 +27,6 @@ Authorization:
     Login:<input type="text" value="" name="login"><br>
     Password:<input type="text" name="password" value=""><br>
 
-    <input type="hidden" name="command" value="register">
     <input type="submit" value="Login">
 </form>
 

@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a16f0f81-e83b-4c01-9fed-bcf715ca0b39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/init.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/register-form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/auth.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register-form.php" beforeDir="false" afterPath="$PROJECT_DIR$/register-form.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -53,6 +52,10 @@
       <workItem from="1615728099213" duration="2032000" />
       <workItem from="1615734021908" duration="599000" />
       <workItem from="1615741251254" duration="283000" />
+      <workItem from="1615905671642" duration="1349000" />
+      <workItem from="1615911442227" duration="1100000" />
+      <workItem from="1615913312286" duration="1690000" />
+      <workItem from="1615915109381" duration="62000" />
     </task>
     <servers />
   </component>
