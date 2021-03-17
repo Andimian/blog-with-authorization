@@ -2,10 +2,10 @@
 
 require_once "init.php";
 
-//if (isUserAuthorized()) {
-//    header('location: index.php');
-//    die;
-//}
+if (isUserAuthorized()) {
+    header('location: index.php');
+    die;
+}
 echo 'register and login form';
 ?>
 
