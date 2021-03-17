@@ -8,5 +8,5 @@ if (!isUserAuthorized()) {
 }
 echo 'Пользователь авторизован';
 if (!empty($_GET['authorized'])) {
-    echo '<br> по массиву гет видно, что всё гуд';
+    echo '<br> по массиву GET видно, что всё гуд';
 }
